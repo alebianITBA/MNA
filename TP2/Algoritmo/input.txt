@@ -1,0 +1,18 @@
+A:
+0.97
+FS:
+8000
+BPS:
+16
+FRAME LENGTH(ms):
+20
+overlappingcoef:
+0.5
+lower_bank_filter_frec:
+300
+higher_bank_filter_frec:
+8000
+quantity_of_banks:
+28
+nfft:
+256
